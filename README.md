@@ -2,7 +2,10 @@
 
 ## About Me
 
-I'm a passionate Full Stack Developer with a knack for solving complex problems and creating intuitive user experiences. Currently, I'm based in Belgium and actively seeking new opportunities in web development.
+I'm a passionate Fullstack Developer with a knack for solving complex problems and creating intuitive user experiences. Currently, I'm based in Belgium and actively seeking new opportunities in web development.
+### Portfolio
+My Portfolio including my resume/cv is [here](https://ugurkan-karaca.netlify.app/).
+
 
 ## Career Journey
 
